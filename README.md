@@ -20,3 +20,4 @@
 ---
 
 - [LinkedIn](https://www.linkedin.com/in/jameswu49/)
+- [Portfolio](https://jameswu49.github.io/portfolio/)
