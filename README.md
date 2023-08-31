@@ -21,3 +21,8 @@
 
 - [LinkedIn](https://www.linkedin.com/in/jameswu49/)
 - [Portfolio](https://jameswu49.github.io/portfolio/)
+
+👨🏻‍💻 <b>Connect With Me!<b>
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=jameswu49)](https://git.io/streak-stats)
+
