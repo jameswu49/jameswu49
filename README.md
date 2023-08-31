@@ -5,7 +5,6 @@
 📚 Stack - React, Typescript, Javascript, CSS3, HTML5, Node.js, Express, PostgreSQL
 <br/>
 🛠️ Tools - Tailwind, Boostrap, Babel, Webpack, Git, GitHub, Slack, Vercel, Firebase  
-<br/>
 🧑🏻‍💻 Love building projects and always looking for something new to start on! 
 <br/>
 
