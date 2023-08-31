@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-💻 Currently studying - TypeScript, React Native
+💻 Currently studying - React Native
 <br/>
-📚 Stack - React, Javascript, CSS3, HTML5, Node.js, Express 
+📚 Stack - React, Typescript, Javascript, CSS3, HTML5, Node.js, Express, PostgreSQL
 <br/>
-🛠️ Tools - Tailwind, Boostrap, PostgreSQL, Babel, Webpack, Git, GitHub, Slack 
+🛠️ Tools - Tailwind, Boostrap, Babel, Webpack, Git, GitHub, Slack, Vercel, Firebase  
 <br/>
 🧑🏻‍💻 Love building projects and always looking for something new to start on! 
 <br/>
