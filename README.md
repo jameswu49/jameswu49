@@ -22,7 +22,6 @@
 - [Portfolio](https://jameswu49.github.io/portfolio/)
 
 🔥 <b>My Stats:<b>
----
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=jameswu49&theme=dark)](https://git.io/streak-stats)
 
